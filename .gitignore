@@ -1,0 +1,16 @@
+# Packages
+node_modules
+
+# Built files
+dist
+
+# Miniflare
+.mf
+.env
+wrangler.toml
+
+# Misc
+yarn-error.log
+package-lock.json
+
+.DS_Store
